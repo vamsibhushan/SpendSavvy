@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/zinc</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo2</item> <!-- Set your logo here -->
+        <item name="postSplashScreenTheme">@style/Theme.SpendSavvy</item>
+
+    </style>
+
+    <style name="Theme.SpendSavvy" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

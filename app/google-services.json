@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919891078769",
+    "project_id": "spendsavvy2",
+    "storage_bucket": "spendsavvy2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919891078769:android:a696174f469f44656135d0",
+        "android_client_info": {
+          "package_name": "com.example.spendsavvy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919891078769-dk5oq3lmlavlf0ke371rdoalv182p4cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spendsavvy",
+            "certificate_hash": "3393cdb72ba8a7b3d97dd32a98b2de1004484f07"
+          }
+        },
+        {
+          "client_id": "919891078769-27oog7r7q4q12i5k9aasuvv3ka8n5bbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCllEaUiS3tCg9fVHn6RxAhXvKsVISNLrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919891078769-27oog7r7q4q12i5k9aasuvv3ka8n5bbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
